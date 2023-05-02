@@ -6,6 +6,7 @@ const cors = require("cors");
 app.use(cors());
 
 const chefData = require("./data/chefData.json");
+const recipeData = require("./data/recipeData.json");
 
 app.get("/", (req, res) => {
   res.send("Server running...");
@@ -13,6 +14,10 @@ app.get("/", (req, res) => {
 
 app.get("/allChef", (req, res) => {
   res.send(chefData);
+});
+
+app.get("/allRecipe", (req, res) => {
+  res.send(recipeData);
 });
 
 app.listen(port, () => {
