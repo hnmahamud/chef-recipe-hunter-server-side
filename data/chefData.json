@@ -2,10 +2,11 @@
   {
     "id": 1,
     "name": "Li Mei",
-    "picture": "https://images.unsplash.com/photo-1470114755716-3e1124c6c3bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=798&q=80",
+    "picture": "https://img.freepik.com/free-photo/male-chef-kitchen-cooking_23-2148934673.jpg?w=996&t=st=1683047908~exp=1683048508~hmac=de257937a965047479679c0abd090d23e95e0dc99afaa97622134d92c318c75c",
     "years_of_experience": 10,
     "number_of_recipes": 3,
-    "likes": 1000
+    "likes": 1000,
+    "bio": "Born and raised in Beijing, Li Mei has been fascinated with cooking since childhood. He trained at the prestigious Beijing Culinary Institute and has since worked at some of the top Chinese restaurants in the world. Li's specialties include Sichuan cuisine and northern Chinese dishes, and He is particularly renowned for her skill in preparing spicy hotpot dishes."
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "years_of_experience": 15,
     "number_of_recipes": 3,
-    "likes": 1200
+    "likes": 1200,
+    "bio": "Growing up in Guangzhou, Wang Li was exposed to a wide variety of Cantonese dishes from an early age. He honed her skills at her family's restaurant and later trained at the Guangzhou Culinary Institute. Wang's specialties include dim sum and seafood dishes, and He is known for her innovative takes on classic Cantonese recipes."
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "picture": "https://images.unsplash.com/photo-1603899949816-a3e9b885090e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "years_of_experience": 20,
     "number_of_recipes": 3,
-    "likes": 1500
+    "likes": 1500,
+    "bio": "Originally from Shanghai, Chen Wei has spent the past two decades traveling and studying Chinese cuisine. He has worked in top restaurants throughout China, from Beijing to Guangzhou, and has won numerous awards for her culinary creations. Chen's specialties include Shanghainese cuisine and Jiangsu-style dishes, and He is particularly adept at preparing delicate, flavorful soups and stews."
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "picture": "https://images.unsplash.com/photo-1609558531790-ec0fe1237631?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "years_of_experience": 8,
     "number_of_recipes": 3,
-    "likes": 800
+    "likes": 800,
+    "bio": "Zhang Lin was born in Chengdu, the capital of Sichuan province, and grew up surrounded by the bold, spicy flavors of Sichuan cuisine. After training at the Sichuan Higher Institute of Cuisine, Zhang worked at some of the top restaurants in Chengdu before branching out on her own. Zhang's specialties include Sichuan-style hotpot and spicy stir-fry dishes, and He is known for her use of fragrant Sichuan peppercorns and other unique ingredients."
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "picture": "https://images.unsplash.com/photo-1502364271109-0a9a75a2a9df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "years_of_experience": 12,
     "number_of_recipes": 3,
-    "likes": 900
+    "likes": 900,
+    "bio": "Liu Jun was born and raised in Hong Kong, where He was exposed to a wide variety of Cantonese and other Chinese dishes. After training at the Hong Kong Culinary Institute, Liu worked at several top restaurants in Hong Kong and later opened her own restaurant in Shanghai. Liu's specialties include dim sum, seafood, and rice dishes, and He is known for her meticulous attention to detail and use of high-quality ingredients."
   },
   {
     "id": 6,
@@ -45,6 +50,7 @@
     "picture": "https://images.unsplash.com/photo-1576425946664-2a057afff422?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "years_of_experience": 18,
     "number_of_recipes": 3,
-    "likes": 1300
+    "likes": 1300,
+    "bio": "Zhou Yi was born in Fujian province and grew up surrounded by the rich flavors of Fujianese cuisine. He later trained at the Fuzhou Culinary Institute and worked at some of the top restaurants in Fuzhou before moving to Beijing. Zhou's specialties include Fujianese-style seafood dishes and soups, and He is known for her use of unique ingredients like dried seafood and bamboo shoots."
   }
 ]
