@@ -5,8 +5,14 @@ const cors = require("cors");
 
 app.use(cors());
 
+const chefData = require("./data/chefData.json");
+
 app.get("/", (req, res) => {
   res.send("Server running...");
+});
+
+app.get("/allChef", (req, res) => {
+  res.send(chefData);
 });
 
 app.listen(port, () => {
