@@ -12,12 +12,24 @@ app.get("/", (req, res) => {
   res.send("Server running...");
 });
 
-app.get("/allChef", (req, res) => {
+app.get("/all-chef", (req, res) => {
   res.send(chefData);
 });
 
-app.get("/allRecipe", (req, res) => {
+app.get("/chef-details/:id", (req, res) => {
+  const chefId = parseInt(req.params.id);
+  const chefFound = chefData.find((chef) => chef.id === chefId);
+  res.send(chefFound);
+});
+
+app.get("/all-recipe", (req, res) => {
   res.send(recipeData);
+});
+
+app.get("/chef-recipe/:id", (req, res) => {
+  const chefId = parseInt(req.params.id);
+  const recipeFound = recipeData.filter((recipe) => recipe.chef_id === chefId);
+  res.send(recipeFound);
 });
 
 app.listen(port, () => {
