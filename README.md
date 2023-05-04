@@ -1,3 +1,7 @@
+## Api Link
+
+Hosted in Vercel -> [https://chef-recipe-hunter-server-hnmahamud.vercel.app/](https://chef-recipe-hunter-server-hnmahamud.vercel.app/)
+
 ## Installation
 
 For install dependency:
