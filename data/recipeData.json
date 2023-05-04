@@ -152,7 +152,7 @@
   {
     "id": 11,
     "recipe_name": "Peking Duck",
-    "image_url": "https://img.freepik.com/free-photo/chinese-cuisine-roast-pigeon-crisp-baby-pigeon_1205-10410.jpg?w=996&t=st=1683058759~exp=1683059359~hmac=c85e238c1d49f599c471bc9b194c1795573ef0e3bc48235297b24c6818bce355",
+    "image_url": "https://img.freepik.com/free-photo/side-view-traditional-asian-food-peking-duck-with-cucumbers-sauce-plate_141793-11572.jpg?w=996&t=st=1683200438~exp=1683201038~hmac=26ffb95346a5a0da1dac6ff48511a3d7cdb053df43522ebc612fa391fc518c12",
     "chef_id": 5,
     "ingredients": [
       "duck",
@@ -245,7 +245,7 @@
   {
     "id": 18,
     "recipe_name": "Tea-Smoked Duck",
-    "image_url": "https://img.freepik.com/free-photo/chinese-delicacy-soy-sauce-chicken_1205-10554.jpg?w=996&t=st=1683059622~exp=1683060222~hmac=218983193ce292eb5a0e4da3cabf181de9db95f07dc5838177dc0bc2ab2bac25",
+    "image_url": "https://img.freepik.com/free-photo/yunan-pork-stewed-gravy_640221-226.jpg?w=996&t=st=1683200165~exp=1683200765~hmac=24b00f9d656c2319bb1b73c2fdf41bacdb15f419bc8d17873a31384395a2de99",
     "chef_id": 6,
     "ingredients": [
       "duck breast",
@@ -410,7 +410,7 @@
   {
     "id": 29,
     "recipe_name": "Peking Duck",
-    "image_url": "https://img.freepik.com/free-photo/chinese-cuisine-roast-pigeon-crisp-baby-pigeon_1205-10410.jpg?w=996&t=st=1683058759~exp=1683059359~hmac=c85e238c1d49f599c471bc9b194c1795573ef0e3bc48235297b24c6818bce355",
+    "image_url": "https://img.freepik.com/free-photo/side-view-traditional-asian-food-peking-duck-with-cucumbers-sauce-plate_141793-11572.jpg?w=996&t=st=1683200438~exp=1683201038~hmac=26ffb95346a5a0da1dac6ff48511a3d7cdb053df43522ebc612fa391fc518c12",
     "chef_id": 2,
     "ingredients": [
       "duck",
@@ -503,7 +503,7 @@
   {
     "id": 36,
     "recipe_name": "Tea-Smoked Duck",
-    "image_url": "https://img.freepik.com/free-photo/chinese-delicacy-soy-sauce-chicken_1205-10554.jpg?w=996&t=st=1683059622~exp=1683060222~hmac=218983193ce292eb5a0e4da3cabf181de9db95f07dc5838177dc0bc2ab2bac25",
+    "image_url": "https://img.freepik.com/free-photo/yunan-pork-stewed-gravy_640221-226.jpg?w=996&t=st=1683200165~exp=1683200765~hmac=24b00f9d656c2319bb1b73c2fdf41bacdb15f419bc8d17873a31384395a2de99",
     "chef_id": 1,
     "ingredients": [
       "duck breast",
